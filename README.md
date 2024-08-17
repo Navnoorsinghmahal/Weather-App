@@ -15,7 +15,7 @@ This repository contains the source code for a Weather App built using React. Th
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/weather-app.git
+    git clone https://github.com/Navnoorsinghmahal/weather-app.git
     cd weather-app
     ```
 
